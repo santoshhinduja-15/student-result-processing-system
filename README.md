@@ -47,6 +47,7 @@ Santosh Hinduja
 Computer Engineering Student
 
 ##Screenshots
+
 <img width="883" height="547" alt="image" src="https://github.com/user-attachments/assets/66146804-0ac5-4064-a21b-6fc02c2c3574" />
 <img width="1109" height="561" alt="image" src="https://github.com/user-attachments/assets/5e47a923-6927-4c60-aae0-ee57bc7a2d70" />
 <img width="899" height="596" alt="image" src="https://github.com/user-attachments/assets/a7a3863f-956e-4daf-a75f-1faed8012714" />
